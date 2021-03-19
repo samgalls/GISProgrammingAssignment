@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OSMSouthernUK" id="OSMSouthernUK">
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="code" type="float"></SimpleField>
+	<SimpleField name="fclass" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+</Schema>
+<Folder><name>OSMSouthernUK</name>
+  <Placemark>
+	<name>Arnold Laver - Timber World</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">70521787</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.9723859,51.4253099 -0.9716015,51.4253463 -0.9715534,51.4249431 -0.971212,51.4249589 -0.9711753,51.4246508 -0.972301,51.4245986 -0.9723859,51.4253099</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Vodafone</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">94396838</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.7735834,51.4164133 -0.7729201,51.4166997 -0.7728446,51.4166465 -0.7727643,51.4166736 -0.7726663,51.4166821 -0.7726753,51.4167506 -0.7719666,51.4167832 -0.7719491,51.4167219 -0.771897,51.4167328 -0.7718327,51.4167157 -0.7717752,51.4167632 -0.7711607,51.4165674 -0.7714019,51.4162662 -0.7719321,51.4164276 -0.771848,51.4165518 -0.7719502,51.4165857 -0.7720614,51.4165748 -0.772049,51.4164564 -0.7727553,51.4164384 -0.7732096,51.4161936 -0.7733257,51.4162869 -0.7734216,51.4162494 -0.7735834,51.4164133</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">128523522</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-2.5886051,51.4514677 -2.5881737,51.451548 -2.5881365,51.4515551 -2.5879934,51.4512485 -2.588501,51.4511558 -2.5886051,51.4514677</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Global Switch London East</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">157178049</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+		<SimpleData name="type">data_center</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.004197,51.5109743 -0.0041913,51.5109892 -0.0041664,51.5110016 -0.0041342,51.5110041 -0.0041061,51.5109928 -0.0040879,51.510946 -0.0040391,51.5109552 -0.0041253,51.5111397 -0.0041279,51.5111523 -0.0041104,51.5111669 -0.0038683,51.5112077 -0.0038624,51.5111931 -0.0032799,51.5112972 -0.0032881,51.5113132 -0.0030507,51.5113624 -0.0030276,51.5113598 -0.0030116,51.5113514 -0.0029482,51.5112244 -0.0029044,51.5112327 -0.0029102,51.5112491 -0.0028977,51.5112636 -0.0028705,51.5112687 -0.002839,51.5112625 -0.0027977,51.5111781 -0.0028043,51.5111632 -0.0028233,51.5111544 -0.0028556,51.5111539 -0.0028746,51.5111647 -0.0028928,51.5112064 -0.002935,51.5111992 -0.0028779,51.5110726 -0.0029631,51.5110541 -0.0029366,51.5109969 -0.0028531,51.5110113 -0.0027902,51.5108827 -0.0027489,51.5108914 -0.0027613,51.5109326 -0.0027629,51.510948 -0.0027497,51.5109604 -0.0027299,51.5109655 -0.0027009,51.5109609 -0.0026885,51.5109552 -0.0026529,51.5108749 -0.0026562,51.5108595 -0.0026786,51.5108502 -0.002705,51.5108528 -0.0027216,51.51086 -0.0027282,51.5108698 -0.0027786,51.5108605 -0.0027231,51.510736 -0.0027216,51.5107241 -0.0027315,51.5107138 -0.0029838,51.5106675 -0.0029937,51.5106819 -0.0035668,51.5105769 -0.0035577,51.5105615 -0.0037943,51.5105167 -0.0038183,51.5105205 -0.0038348,51.5105275 -0.0039249,51.5107112 -0.0039721,51.5107025 -0.0039506,51.5106587 -0.0039589,51.5106423 -0.0039919,51.510632 -0.0040192,51.5106325 -0.0040416,51.5106433 -0.0040813,51.5107277 -0.004073,51.5107396 -0.0040697,51.5107468 -0.0040234,51.5107576 -0.0040052,51.5107499 -0.0039878,51.5107349 -0.0039423,51.5107416 -0.0039614,51.5107844 -0.0039953,51.5107891 -0.0040243,51.5107999 -0.0040375,51.5108225 -0.0040334,51.5108446 -0.0040193,51.5108616 -0.0040036,51.5108714 -0.0040258,51.5109243 -0.0040738,51.5109141 -0.004073,51.5108966 -0.0040821,51.5108806 -0.0041052,51.5108739 -0.0041367,51.510878 -0.0041573,51.5108888 -0.004197,51.5109743</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">157178050</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.0019676,51.5115839 -0.0017504,51.5116241 -0.0014315,51.5109564 -0.0016487,51.5109162 -0.0019676,51.5115839</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">164527275</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.0830249,51.5229999 -0.0829858,51.5231745 -0.0829727,51.523233 -0.0828004,51.5232253 -0.0828103,51.5231661 -0.0828153,51.5231358 -0.0824892,51.5231241 -0.0824892,51.5231045 -0.0824819,51.5230348 -0.0828202,51.5230271 -0.0828286,51.5230103 -0.082835,51.5229828 -0.0830249,51.5229999</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">164527297</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.0830523,51.5228822 -0.0830249,51.5229999 -0.082835,51.5229828 -0.0828286,51.5230103 -0.0827713,51.5230051 -0.0827761,51.5229846 -0.0827096,51.5229786 -0.0827386,51.5228539 -0.0829273,51.5228709 -0.0830523,51.5228822</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">203677421</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-1.3177273,51.4032366 -1.3175126,51.4032638 -1.3175349,51.4033322 -1.3173311,51.403358 -1.31717,51.402863 -1.3175885,51.40281 -1.3177273,51.4032366</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">203677756</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-1.304548,51.3990876 -1.3038708,51.3990951 -1.3038674,51.3989778 -1.3045447,51.3989704 -1.304548,51.3990876</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>1-2 Exchange Tower</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">257754128</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+		<SimpleData name="type">office</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.0154147,51.4985412 -0.0153852,51.4987015 -0.0152055,51.4986932 -0.0152108,51.4986598 -0.0149292,51.4986398 -0.0149319,51.4986798 -0.0147253,51.4986648 -0.0147039,51.4988385 -0.014905,51.4988518 -0.014897,51.4988969 -0.0149878,51.498903 -0.0153476,51.498927 -0.0153288,51.4990505 -0.0143686,51.4989921 -0.0143766,51.4989453 -0.0141862,51.498937 -0.0141916,51.4988785 -0.0142533,51.4988802 -0.0142613,51.4988585 -0.0143686,51.4988602 -0.0144115,51.498583 -0.0142479,51.498568 -0.0142694,51.4985129 -0.0143096,51.4985112 -0.0143203,51.4984795 -0.0154147,51.4985412</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">320724377</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+		<SimpleData name="type">apartments</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.011086,51.4990174 -0.011006,51.4990849 -0.0105719,51.4988854 -0.0106518,51.498818 -0.011086,51.4990174</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#OSMSouthernUK">
+		<SimpleData name="osm_id">715347406</SimpleData>
+		<SimpleData name="code">1500</SimpleData>
+		<SimpleData name="fclass">building</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-1.8473125,51.5490438 -1.8471488,51.5492707 -1.8469504,51.5492206 -1.8469155,51.5492623 -1.8466667,51.549203 -1.8467009,51.5491606 -1.8465748,51.5491222 -1.8466043,51.5490922 -1.8467224,51.5491222 -1.8467358,51.5490989 -1.847018,51.5491779 -1.8471515,51.5490021 -1.8473125,51.5490438</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
